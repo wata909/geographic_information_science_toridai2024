@@ -1,0 +1,2 @@
+# geographic_information_science_toridai2024
+鳥取大学地理情報科学
